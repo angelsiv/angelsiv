@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p>
+<!-- linkedin -->
+<a style="text-decoration:none;" href="https://www.linkedin.com/in/angeline-siv/"><img src="https://user-images.githubusercontent.com/42902906/117195813-bf969480-adb3-11eb-9e58-0852ca39e484.png" alt="linkedin logo" width="42.3" height ="36"></a>
+<!-- itchio -->
+<a style="text-decoration:none;" href="https://angelsiu.itch.io/"><img src="https://user-images.githubusercontent.com/42902906/117197510-e5bd3400-adb5-11eb-9f29-96fe13c16c4a.png" alt="itchio logo" width="42.3" height ="36"></a>
+</p>
+
 <!--
 **angelsiv/angelsiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
