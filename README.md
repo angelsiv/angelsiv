@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/42902906/117467487-bc211b80-af21-11eb-8f63-6b1c6b943b0a.png" alt="hiro the donut dog banner image">
+
+## Hello there 👋
 
 <p>
 <!-- linkedin -->
